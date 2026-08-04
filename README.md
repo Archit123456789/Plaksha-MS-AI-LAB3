@@ -21,7 +21,7 @@ A lightweight, end-to-end semantic search engine and visualization system built 
 
 ---
 
-## 🚀 Features
+## Features
 
 - **Semantic Vector Retrieval**: Replaces basic keyword matching with meaning-based retrieval using vector embeddings.
 - **Asymmetric Vector Processing**: Handles document indexing (`input_type="passage"`) and search queries (`input_type="query"`) asymmetrically to optimize retrieval accuracy.
