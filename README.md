@@ -1,7 +1,3 @@
-Here is a complete, polished **`README.md`** file ready to put directly into your repository. It includes project overview, setup instructions, architecture details, instructions for running both modes, and the non-technical PCA explanation you requested.
-
----
-
 ```markdown
 # Semantic Search Engine (Lab 3 — Capstone, Part 1)
 
