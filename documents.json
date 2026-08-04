@@ -1,0 +1,26 @@
+[
+  {"id": "doc_01", "topic": "physics", "text": "The theory of relativity, developed by Albert Einstein, revolutionized our understanding of space, time, and gravity."},
+  {"id": "doc_02", "topic": "physics", "text": "Planck's constant relates the energy of a photon to its frequency."},
+  {"id": "doc_03", "topic": "physics", "text": "The Heisenberg uncertainty principle states that one cannot simultaneously know both the position and momentum of a particle with arbitrary precision."},
+  {"id": "doc_04", "topic": "physics", "text": "Quantum entanglement allows particles to instantaneously affect each other's states regardless of distance."},
+  
+  {"id": "doc_05", "topic": "history", "text": "The Industrial Revolution marked a major turning point in history, leading to the rise of factories, urbanization, and technological innovation."},
+  {"id": "doc_06", "topic": "history", "text": "The French Revolution was a period of radical social and political upheaval in France."},
+  {"id": "doc_07", "topic": "history", "text": "The Great Fire of London in 1666 destroyed much of the city, leading to significant rebuilding and urban planning changes."},
+  {"id": "doc_08", "topic": "history", "text": "The Renaissance was a period of cultural and artistic rebirth in Europe."},
+
+  {"id": "doc_09", "topic": "sports", "text": "A triathlon tests athletic endurance through sequential legs of swimming, road cycling, and long-distance running."},
+  {"id": "doc_10", "topic": "sports", "text": "Offside rules in association football prohibit attacking players from receiving balls behind defensive lines."},
+  {"id": "doc_11", "topic": "sports", "text": "The Grand Slam in tennis consists of winning four major annual championships: Australian, French, Wimbledon, and US Open."},
+  {"id": "doc_12", "topic": "sports", "text": "Basketball teams use high pick-and-roll maneuvers to force defensive switches and create open perimeter shots."},
+
+  {"id": "doc_13", "topic": "gardening", "text": "Composting breaks down organic waste into rich organic humus that improves soil moisture retention and structure."},
+  {"id": "doc_14", "topic": "gardening", "text": "Photosynthesis enables plants to capture solar photon energy to convert carbon dioxide and water into glucose."},
+  {"id": "doc_15", "topic": "gardening", "text": "Companion planting pairs beneficial botanical species together to naturally deter pests and maximize crop yields."},
+  {"id": "doc_16", "topic": "gardening", "text": "Pruning removes diseased or dead stems to stimulate healthy new foliage growth and fruit production."},
+
+  {"id": "doc_17", "topic": "cybersecurity", "text": "Phishing attacks use deceptive communication engineered to trick victims into revealing sensitive authentication credentials."},
+  {"id": "doc_18", "topic": "cybersecurity", "text": "Symmetric encryption utilizes a single shared key for both plaintext encoding and ciphertext decipherment."},
+  {"id": "doc_19", "topic": "cybersecurity", "text": "Zero-trust network architectures enforce continuous validation of identity credentials across all system access requests."},
+  {"id": "doc_20", "topic": "cybersecurity", "text": "Ransomware malicious software encrypts critical storage drives and demands financial ransoms for decryption keys."}
+]
